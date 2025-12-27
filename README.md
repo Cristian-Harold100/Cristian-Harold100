@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor focado em **back-end .NET** e **SQL Server**, com experiência em desenvolvimento full-stack. Formado pelo PROANO, busco oportunidades para crescer profissionalmente e contribuir com soluções eficientes.
+Desenvolvedor focado em **back-end .NET** e **SQL Server**, com experiência em desenvolvimento full-stack. Formado pelo PROA, busco oportunidades para crescer profissionalmente e contribuir com soluções eficientes.
 
 ---
 
