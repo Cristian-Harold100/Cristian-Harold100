@@ -43,17 +43,28 @@ Desenvolvedor focado em **back-end .NET** e **SQL Server**, com experiência em 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Cristian-Harold100&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Harold100&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+📊 GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristian-Harold100&theme=nord_dark"
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cristian-Harold100&theme=nord_dark"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cristian-Harold100&theme=nord_dark&utcOffset=-3"
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cristian-Harold100&theme=nord_dark"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cristian-Harold100&theme=nord_dark"
+  />
+</p>
 
 ## 📫 Contato
 
