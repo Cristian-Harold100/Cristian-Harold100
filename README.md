@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Cristian Harold
 
-**Desenvolvedor Back-end Júnior (.NET) | Ex-PROANO | SQL Server | React**
+**Desenvolvedor Back-end .NET | SQL Server | React**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-harold10/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian.harold100@gmail.com)
@@ -13,7 +13,11 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor focado em **back-end .NET** e **SQL Server**, com experiência em desenvolvimento full-stack. Formado pelo PROA, busco oportunidades para crescer profissionalmente e contribuir com soluções eficientes.
+Desenvolvedor com foco em **back-end .NET** e **SQL Server**, atuando também no front-end com **React**. Tenho experiência prática em desenvolvimento full-stack e busco contribuir com soluções eficientes e bem estruturadas.
+
+- 🎯 Foco atual: APIs REST com ASP.NET e integração com SQL Server
+- 📚 Estudando: boas práticas, Clean Code e arquitetura de software
+- 💼 Aberto a novas oportunidades
 
 ---
 
@@ -23,7 +27,6 @@ Desenvolvedor focado em **back-end .NET** e **SQL Server**, com experiência em 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,28 +46,32 @@ Desenvolvedor focado em **back-end .NET** e **SQL Server**, com experiência em 
 
 ---
 
-📊 GitHub Stats
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [python-desafios](https://github.com/Cristian-Harold100/python-desafios) | Desafios práticos: validador de CPF, calculadora e simulador bancário | Python |
+| [PWI-Cristian.Harold](https://github.com/Cristian-Harold100/PWI-Cristian.Harold) | Projetos de programação web | HTML, CSS, JS |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristian-Harold100&theme=nord_dark"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristian-Harold100&theme=nord_dark" />
 </p>
+
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cristian-Harold100&theme=nord_dark"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cristian-Harold100&theme=nord_dark&utcOffset=-3"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cristian-Harold100&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cristian-Harold100&theme=nord_dark&utcOffset=-3" />
 </p>
+
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cristian-Harold100&theme=nord_dark"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cristian-Harold100&theme=nord_dark"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cristian-Harold100&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cristian-Harold100&theme=nord_dark" />
 </p>
+
+---
 
 ## 📫 Contato
 
